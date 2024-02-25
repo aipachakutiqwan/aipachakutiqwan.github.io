@@ -17,11 +17,11 @@ title: Florencio Paucar
 email: florenciopaucar@gmail.com
 name: Florencio Paucar
 description: >- # this means to ignore newlines until "baseurl:"
-  I’m deeply passionate about Artificial Intelligence topics, specially on deep generative learning.
+  Deeply passionate about AI real-world applications.
 keywords: [AI, NLP, CV]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "example.com" # the domain name for your site, e.g. example.com
+domain: "aipachakutiqwan.github.io" # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
 # en: English
