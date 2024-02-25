@@ -3,7 +3,7 @@ layout: post
 title:  "This is a new post"
 date:   2024-02-25
 last_modified_at: 2024-02-25
-categories: [Jekyll Paper]
+categories: [Medium Articles]
 tags: [Getting Start]
 ---
 
