@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a passionate individual deeply immersed in the realm of Artificial Intelligence, boasting extensive experience in the technology sector across diverse cultural landscapes in Peru, Italy, and Finland. My journey has honed not only my technical proficiency but also my adeptness in collaborative teamwork, adept management of interpersonal relationships, and a steadfast commitment to delivering results.
+I am a passionate individual deeply immersed in the realm of Artificial Intelligence, boasting extensive experience in the technology sector across diverse cultural landscapes in Peru, Italy, and Finland. 
 
 My professional background includes substantial involvement in Big Data and Artificial Intelligence projects, where I have successfully implemented cutting-edge AI solutions. These endeavors have significantly enhanced business productivity, showcasing my ability to bridge the gap between technology and tangible outcomes.
 

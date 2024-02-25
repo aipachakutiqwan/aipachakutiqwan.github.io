@@ -24,6 +24,9 @@
 <loc>http://localhost:4000/tag/getting-start/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/jekyll-paper/</loc>
+<loc>http://localhost:4000/category/github-projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/medium-articles/</loc>
 </url>
 </urlset>
